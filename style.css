@@ -1,0 +1,34 @@
+body
+{
+    color: #FFFFFF;
+    padding: 0px;
+	background-color: #000000;
+}
+
+#tit
+{
+	text-align: center;
+}
+
+#titPartYellow
+{
+	background-color: #ED8909;
+	border-radius: 5px;
+	color: #000000;
+}
+
+.c114
+{
+}
+.v514
+{
+	background-color: #ED8909;
+	border-radius: 5px;
+	color: #000000;
+}
+#inputBox
+{
+	
+	width: 80%;
+	height: 20%;
+}
